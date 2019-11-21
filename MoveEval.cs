@@ -309,7 +309,7 @@ namespace Chess
             if (level == max_level)
             {
                 count += 1;
-
+                test
             }
         }
 
