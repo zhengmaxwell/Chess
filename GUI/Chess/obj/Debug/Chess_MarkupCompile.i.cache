@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\obj\Debug\
+C:\Users\Maxwell\source\repos\Chess\Chess\obj\Debug\
 Chess
 none
 false
 DEBUG;TRACE
-C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\App.xaml
+C:\Users\Maxwell\source\repos\Chess\Chess\App.xaml
 2-926886159
 
 10664585589
 151397803362
 GameWIndow.xaml;StartWindow.xaml;
 
-True
+False
 
