@@ -32,3 +32,20 @@ C:\Users\Maxwell\Documents\Visual Studio 2019\Source\repos\Chess\Chess\obj\Debug
 C:\Users\Maxwell\Documents\Visual Studio 2019\Source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
 C:\Users\Maxwell\Documents\Visual Studio 2019\Source\repos\Chess\Chess\obj\Debug\Chess.exe
 C:\Users\Maxwell\Documents\Visual Studio 2019\Source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\bin\Debug\Chess.exe.config
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\bin\Debug\Chess.exe
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\bin\Debug\Chess.pdb
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\GameWIndow.g.cs
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\StartWindow.g.cs
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\App.g.cs
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\GameWIndow.baml
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\StartWindow.baml
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.g.resources
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.exe
+C:\Users\Maxwell\Documents\Code\Projects\Chess\GUI\Chess\obj\Debug\Chess.pdb
