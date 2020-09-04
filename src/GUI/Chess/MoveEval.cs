@@ -301,22 +301,5 @@ namespace Chess
 
  
         }
-
-        /*
-        public static int[] Minimax(int[] board, int[] player, int max_level, int alpha = -9999999, int beta = 9999999, int level = 0, double currentBoardVal = 1.2345)
-        {
-
-            if (level == max_level)
-            {
-                count += 1;
-                test
-            }
-        }
-
-
-        */
-
-
-
     }
 }
