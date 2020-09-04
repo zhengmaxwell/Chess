@@ -22,5 +22,5 @@ Additional features not present in the console application include:
 
 <p align="center">
     <img src="images/gui.png" alt="Console" width="400"><br/>
-    <em>Figure 1: In-Game on GUI</em>
+    <em>Figure 2: In-Game on GUI</em>
 </p>
